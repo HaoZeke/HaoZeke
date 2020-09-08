@@ -13,6 +13,10 @@ Have some quotes:
 
 > “Happiness isn't good enough for me! I demand euphoria!” --- _Calvin and Hobbes by Bill Watterson_
 
+> “Happy families are all alike; every
+>unhappy family is unhappy in its own
+>way.” --- _Anna Karenina by Leo Tolstoy_
+
 Other things I can't recall.
 
 <!--
