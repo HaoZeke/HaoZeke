@@ -17,6 +17,10 @@ Have some quotes:
 >unhappy family is unhappy in its own
 >way.” --- _Anna Karenina by Leo Tolstoy_
 
+> “Our lives are rivers, gliding free to
+> that unfathomed, boundless sea, the
+> silent grave!“ --- _Jorge Manrique_
+
 Other things I can't recall.
 
 <!--
