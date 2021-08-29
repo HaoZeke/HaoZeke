@@ -13,6 +13,10 @@ Have some quotes:
 
 > “Happiness isn't good enough for me! I demand euphoria!” --- _Calvin and Hobbes by Bill Watterson_
 
+>	"Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve." --– _Alan Perlis_
+
+> "If you want to have good ideas, you must have many ideas." –-- _Linus Pauling_
+
 > “Happy families are all alike; every
 >unhappy family is unhappy in its own
 >way.” --- _Anna Karenina by Leo Tolstoy_
