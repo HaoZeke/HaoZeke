@@ -9,13 +9,11 @@ I know what this is. I just think you're probably looking [FOR MY SITE instead](
 
 Have some quotes:
 
+**For life**
+
 > “I write this diary reluctantly. Its dishonest honesty wearies me. For whom am I writing? If I am writing for myself, then why is it being published? If for the reader, why do I pretend that I am talking to myself? Are you talking to yourself so that others will hear you?” --- _Diary by Witold Gombrowicz_
 
 > “Happiness isn't good enough for me! I demand euphoria!” --- _Calvin and Hobbes by Bill Watterson_
-
->	"Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve." --– _Alan Perlis_
-
-> "If you want to have good ideas, you must have many ideas." –-- _Linus Pauling_
 
 > “Happy families are all alike; every
 >unhappy family is unhappy in its own
@@ -24,6 +22,25 @@ Have some quotes:
 > “Our lives are rivers, gliding free to
 > that unfathomed, boundless sea, the
 > silent grave!“ --- _Jorge Manrique_
+
+**For work**
+
+>	"Dealing with failure is easy: Work hard to improve.
+> Success is also easy to handle: You've solved the wrong problem.
+> Work hard to improve." --– _Alan Perlis_
+
+> "If you want to have good ideas,
+>  you must have many ideas." –-- _Linus Pauling_
+
+> “Running a few MO calculations doesn't make
+> one an electronic structure theorist any more
+> than sleeping in one's garage makes him/her an
+> automobile.“ --- _Quantum Chemistry by Henry F. Schaefer III_
+
+> “The derivation can be made to look slightly
+> less juvenile by introducing an obscure
+> notation at this point“ --- _P. Pechukas, in Dynamics of
+Molecular Collisions, Part B_
 
 Other things I can't recall.
 
